@@ -1,0 +1,4 @@
+Language: Cpp
+IncludeCategories:
+  - Regex: '^<(EGL|GLES)'
+    Priority: 100
